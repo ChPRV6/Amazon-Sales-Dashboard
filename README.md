@@ -58,12 +58,7 @@ Date dimension used for filtering and aggregating:
 ## 📁 Folder Structure
 
 
-📦 Amazon Sales Analysis
-├── 📊 Power BI File (.pbix)
-├── 📁 Amazon_Combined_Data (.CSV)
-├── 📄 README.md
-├── 🖼️ Screenshot1.png
-└── 🖼️ Screenshot2.png
+![Amazon Sales Dashboard](./Screenshot3.png)
 
 
 
