@@ -58,7 +58,7 @@ Date dimension used for filtering and aggregating:
 ## 📁 Folder Structure
 
 
-![Amazon Sales Dashboard](./Screenshot3.png)
+![Amazon Sales Dashboard](./Screenshot 3.png)
 
 
 
