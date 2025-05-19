@@ -59,10 +59,12 @@ Date dimension used for filtering and aggregating:
 
 
 📦 Amazon Sales Analysis
-┣ 📊 Power BI File (.pbix)
-┣ 📁 Data (CSV/Excel)
-┣ 📄 README.md
-┗ 🖼️ Screenshot.png
+├── 📊 Power BI File (.pbix)
+├── 📁 Amazon_Combined_Data (.CSV)
+├── 📄 README.md
+├── 🖼️ Screenshot1.png
+└── 🖼️ Screenshot2.png
+
 
 
 
